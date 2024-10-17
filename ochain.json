@@ -1,0 +1,43 @@
+{
+    "name": "Token List",
+    "timestamp": "2077-01-01T11:11:11.111Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 7 
+    },
+    "tags": {
+      "v3CoreFactoryAddress": "0x5402b6a602AbCdc4DF0f1475C44220E025fAc9B2",
+      "multicall2Address": "0xEAc89B68CdcB68ea749224079C92E004DB4950cf",
+      "proxyAdminAddress": "0x5E02B5f037bEA01A9398162E8573448AaDF1d082",
+      "tickLensAddress": "0x0E0A03A67128A50dAd15F939799AadC3CA80616e",
+      "nftDescriptorLibraryAddressV1_3_0": "0x4867C0D2559f5fDc09279fD96189E782A2923943",
+      "nonfungibleTokenPositionDescriptorAddressV1_3_0": "0xd51e7187e54a4A22D790f8bbDdd9B54b891Bc920",
+      "descriptorProxyAddress": "0x0cb3cF298f2C72B1785c4B573a837f39Ec0544f6",
+      "nonfungibleTokenPositionManagerAddress": "0x96F922980e5ad8Cd85CE2F57C984d3d46eC8a285",
+      "v3MigratorAddress": "0xF13D96d600Fb27B5f34D9cfc1B3CB68f8dcaa62f",
+      "v3StakerAddress": "0x5DCb9354273383266E0Ba7A8322662BB4B09Dee7",
+      "quoterV2Address": "0x0880484412B5bAa18B3fa2904a500c08f0fE79D2",
+      "swapRouter02": "0x660C85710a1cd10e8345BB30C80A49f661486007"
+    },
+    "logoURI": "https://github.com/user-attachments/assets/d7afb388-992e-439f-ba2d-3d773a4c9201",
+    "keywords": [],
+    "tokens": [
+      {
+        "name": "Wrapped O Token",
+        "address": "0xc7C3cff325c6976965edfEB05c024584e4e4BBDD",
+        "symbol": "wO",
+        "decimals": 18,
+        "chainId": 84841,
+        "logoURI": "https://github.com/user-attachments/assets/d7afb388-992e-439f-ba2d-3d773a4c9201"
+      },
+      {
+        "name": "Tether USD",
+        "address": "0x91D70c3Adde2f0f0C4fB0b2De69f37a7c7E326DF",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 84841,
+        "logoURI": "https://github.com/user-attachments/assets/6f4d6a88-e738-46a9-95a4-5183def0a3ab"
+      }
+    ]
+  }
