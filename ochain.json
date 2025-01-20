@@ -4,7 +4,7 @@
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 7 
+      "patch": 8 
     },
     "tags": {
       "v3CoreFactoryAddress": "0x5402b6a602AbCdc4DF0f1475C44220E025fAc9B2",
@@ -38,6 +38,14 @@
         "decimals": 6,
         "chainId": 84841,
         "logoURI": "https://github.com/user-attachments/assets/6f4d6a88-e738-46a9-95a4-5183def0a3ab"
+      },
+      {
+        "name": "USD Coin",
+        "address": "0x86e965E99Aa65abcda70a8AeC12429C6596Ed1b1",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 84841,
+        "logoURI": "https://github.com/user-attachments/assets/d60cec0b-3b48-4c5a-bfbb-890d8bf7d335"
       }
     ]
   }
